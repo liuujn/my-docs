@@ -1,4 +1,3 @@
-# 欢迎使用 VitePress
 
 这是你的第一个 Markdown 页面！
 
