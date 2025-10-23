@@ -33,3 +33,12 @@ console.log(adults)
 | 警告 | ⚠️ | 需要注意 |
 
 [去关于页](./about)
+<UserTable/>
+<script setup>
+    import UserTable from '/UserTable.vue'
+    import Comment from '.vitepress/components/Comment.vue'
+</script>
+
+
+
+<Comment />
