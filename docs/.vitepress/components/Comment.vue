@@ -3,12 +3,13 @@
   <div id="comment" class="comments">
     <Giscus
       v-if="isMounted"
+     
       repo="liuujn/my-docs"                 
       repo-id="R_kgDOQG6a2Q"
-      category="Announcements"
-      category-id="DIC_bMDQ6b2c4Cw9vy"
-      mapping="pathname"
-      strict="0"
+      category="General"
+      category-id="DIC_kwDOQG6a2c4Cw9vz"
+      mapping="pathname" url  根据路径映射评论
+      strict="1"  严格模式
       reactions-enabled="1"
       emit-metadata="0"
       input-position="bottom"            
