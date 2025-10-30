@@ -253,7 +253,10 @@ String fullUrl = request.getRequestURL().toString();
 String baseUrl = request.getRequestURL().toString().replace(request.getRequestURI(), "");
 // 示例：http://localhost:8080
 ```
-实例 http://localhost:8080/myapp/api/getCode?content=hello&type=1
+请求示例
+```
+GET请求：http://localhost:8080/myapp/api/getCode?content=hello&type=1
+```
 
 | 方法 | 返回值 | 说明 |
 | :--- | :--- | :--- |
