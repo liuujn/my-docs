@@ -1,6 +1,7 @@
 ---
 # docs/java/index.md
-title: Java教程
+title: Java首页
+
 ---
 
 # Java教程首页
